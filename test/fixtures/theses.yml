@@ -3,9 +3,17 @@
 one:
   title: MyString
   abstract: MyText
+<<<<<<< HEAD
   defended: 
+=======
+  defended: 2015-11-19
+>>>>>>> upstream/master
 
 two:
   title: MyString
   abstract: MyText
+<<<<<<< HEAD
   defended: 
+=======
+  defended: 2015-11-19
+>>>>>>> upstream/master
